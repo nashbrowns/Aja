@@ -1,0 +1,23 @@
+{
+  "name": "aja",
+  "version": "1.0.0",
+  "description": "Green IoT V2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nashbrowns/Aja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nashbrowns/Aja/issues"
+  },
+  "homepage": "https://github.com/nashbrowns/Aja#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
